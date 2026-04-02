@@ -32,6 +32,8 @@ The project follows OSEMN framework, which stands for Obtain, Scrub, Explore, Mo
 ## Dashboard
 Interactive dashboard built in Tableau visualizing key metrics, revenue trends, funnel analysis, and purchase activity patterns.
 
+_**Note:**_ Dashboard built on pre-aggregated data exports due to Tableau Public's. 15M row limit on the raw dataset. Interactive filtering not available as a result.
+
 [View Dashboard](https://public.tableau.com/app/profile/mariia.makhlun/viz/visualization_17750556200000/Dashboard1?publish=yes) or see the results here:
 
 
