@@ -1,8 +1,8 @@
-# Cosmetics Store — E-commerce Analysis (Oct 2019 – Feb 2020)
-End-to-end analysis of a cosmetics online store using the OSEMN framework — from raw data cleaning through SQL-based exploration to a final Tableau dashboard.
+# Cosmetics Store – E-commerce Analysis (Oct 2019 – Feb 2020)
+End-to-end analysis of a cosmetics online store using the OSEMN framework – from raw data cleaning through SQL-based exploration to a final Tableau dashboard.
 
 ## Executive Summary
-The cosmetics store has 1,639,151 unique users across 5 months, yet only 6.04% made repeat purchases — indicating a retention problem. A 52.87% cart abandonment rate suggests friction in the checkout process that requires further investigation. Purchase activity peaks on Thursdays, with weekends being the least active days.
+The cosmetics store has 1,639,151 unique users across 5 months, yet only 6.04% made repeat purchases – indicating a retention problem. A 52.87% cart abandonment rate suggests friction in the checkout process that requires further investigation. Purchase activity peaks on Thursdays, with weekends being the least active days.
 
 ## Business Problem
 - Where are users dropping off in the purchase funnel?
